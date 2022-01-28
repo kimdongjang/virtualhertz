@@ -1,0 +1,23 @@
+.vh__navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2rem 6rem;
+}
+
+.vh__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content:  flex-start;
+    align-items: center;
+}
+
+.vh__navbar-links_logo {
+    margin-right: 2rem;
+}
+
+.vh__navbar-links_container{    
+    display: flex;
+    flex-direction: row;
+}
