@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/virtualhertz/static/css/main.12a7b257.css",
-    "main.js": "/virtualhertz/static/js/main.0e9bb8de.js",
+    "main.css": "/virtualhertz/static/css/main.7cb83f35.css",
+    "main.js": "/virtualhertz/static/js/main.c930d3b4.js",
     "static/js/787.8121545a.chunk.js": "/virtualhertz/static/js/787.8121545a.chunk.js",
+    "static/media/profile_eque.jpg": "/virtualhertz/static/media/profile_eque.35346a0dc060b31382db.jpg",
+    "static/media/logo_eque.png": "/virtualhertz/static/media/logo_eque.f2efca1d3ab484d47ffb.png",
     "index.html": "/virtualhertz/index.html",
-    "main.12a7b257.css.map": "/virtualhertz/static/css/main.12a7b257.css.map",
-    "main.0e9bb8de.js.map": "/virtualhertz/static/js/main.0e9bb8de.js.map",
+    "main.7cb83f35.css.map": "/virtualhertz/static/css/main.7cb83f35.css.map",
+    "main.c930d3b4.js.map": "/virtualhertz/static/js/main.c930d3b4.js.map",
     "787.8121545a.chunk.js.map": "/virtualhertz/static/js/787.8121545a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12a7b257.css",
-    "static/js/main.0e9bb8de.js"
+    "static/css/main.7cb83f35.css",
+    "static/js/main.c930d3b4.js"
   ]
 }
