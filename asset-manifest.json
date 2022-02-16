@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/virtualhertz/static/css/main.aa61e8f1.css",
-    "main.js": "/virtualhertz/static/js/main.3008b9d1.js",
+    "main.css": "/virtualhertz/static/css/main.12a7b257.css",
+    "main.js": "/virtualhertz/static/js/main.0e9bb8de.js",
     "static/js/787.8121545a.chunk.js": "/virtualhertz/static/js/787.8121545a.chunk.js",
     "index.html": "/virtualhertz/index.html",
-    "main.aa61e8f1.css.map": "/virtualhertz/static/css/main.aa61e8f1.css.map",
-    "main.3008b9d1.js.map": "/virtualhertz/static/js/main.3008b9d1.js.map",
+    "main.12a7b257.css.map": "/virtualhertz/static/css/main.12a7b257.css.map",
+    "main.0e9bb8de.js.map": "/virtualhertz/static/js/main.0e9bb8de.js.map",
     "787.8121545a.chunk.js.map": "/virtualhertz/static/js/787.8121545a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa61e8f1.css",
-    "static/js/main.3008b9d1.js"
+    "static/css/main.12a7b257.css",
+    "static/js/main.0e9bb8de.js"
   ]
 }
